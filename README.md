@@ -1,2 +1,2 @@
-# Jogo das Naves 
-O resgate do soldado.
+# Jogo do Helicóptero
+Desenvolvido para no Bootcamp Órbi Web Games Developer, sob mentoria do Denilson Bonatti, para aprimorar o uso das tecnologias HTML, CSS e Javascript, além da ferramenta JQuery, no desenvolvimento de jogos para o navegador. 
